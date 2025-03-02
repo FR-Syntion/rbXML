@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Your_Title_Here" />
+<Content type="html"><![CDATA[
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; overflow: hidden;">
+  <iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="width:1296px;height:1296px;" src="https://game316009.konggames.com/gamez/0031/6009/live/index.html" width="1296px" height="1296px" frameborder="0" scrolling="no"></iframe>
+</div>
+
+]]></Content>
+</Module>
